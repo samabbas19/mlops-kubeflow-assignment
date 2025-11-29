@@ -58,7 +58,7 @@ mlops-kubeflow-assignment/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/mlops-kubeflow-assignment.git
+git clone https://github.com/samabbas19/mlops-kubeflow-assignment.git
 cd mlops-kubeflow-assignment
 ```
 
@@ -388,7 +388,7 @@ This project is for educational purposes as part of the Cloud MLOps course.
 
 ## Author
 
-[Your Name] - [Your Student ID]
+**SAAMER** - 22i-0468
 
 ## Acknowledgments
 
